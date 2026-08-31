@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner Soluções Integradas IoT](watermarked_img_16544852334658848933.png)
+![Banner Soluções Integradas IoT](Imagem/IOT.png)
 
 # 🌐 Soluções Integradas IoT (Internet of Things)
 
